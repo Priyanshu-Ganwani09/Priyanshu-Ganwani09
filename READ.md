@@ -1,3 +1,4 @@
+![logo](https://github.com/Priyanshu-Ganwani09/Priyanshu-Ganwani09/blob/main/Screenshot%20(74).png)
 <h1 align="center">Hi 👋, I'm Priyanshu Ganwani</h1>
 <h3 align="center">2nd Year Computer Science Engineering Student from india</h3>
 
