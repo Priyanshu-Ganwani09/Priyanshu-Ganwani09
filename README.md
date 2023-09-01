@@ -1,6 +1,6 @@
 ![logo](https://github.com/Priyanshu-Ganwani09/Priyanshu-Ganwani09/blob/main/Screenshot%20(74).png)
 <h1 align="center">Hi 👋, I'm Priyanshu Ganwani</h1>
-<h3 align="center">2nd Year Computer Science Engineering Student from india</h3>
+<h3 align="center">3rd Year Computer Science Engineering Student from india</h3>
 
 
 <img align="right" width="400" alt="sticker"  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" > 
