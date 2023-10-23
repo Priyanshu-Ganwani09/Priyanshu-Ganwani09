@@ -3,9 +3,6 @@
 <h3 align="center">3rd Year Computer Science Engineering Student from india</h3>
 
 
-<img align="right" width="400" alt="sticker"  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" > 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-ganwani09&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-ganwani09" /> </p>
 
 - 🌱 I’m currently learning **Machine learning algo,framework**
