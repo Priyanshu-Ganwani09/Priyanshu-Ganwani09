@@ -1,7 +1,7 @@
 ![logo](https://github.com/Priyanshu-Ganwani09/Priyanshu-Ganwani09/blob/main/Screenshot%20(74).png)
 <h1 align="center">Hi 👋, I'm Priyanshu Ganwani</h1>
 <h3 align="center">3rd Year Computer Science Engineering Student from india</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu-ganwani09&show_icons=true&locale=en&layout=compact" alt="priyanshu-ganwani09" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu-ganwani09&show_icons=true&locale=en&layout=compact" alt="priyanshu-ganwani09" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-ganwani09&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-ganwani09" /> </p>
 
